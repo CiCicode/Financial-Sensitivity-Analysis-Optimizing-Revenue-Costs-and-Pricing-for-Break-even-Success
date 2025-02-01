@@ -103,13 +103,3 @@ This report summarizes the sensitivity analysis conducted to explore various sce
 - **Mid-term:** Work on reducing variable costs by optimizing supply chain management and increasing operational efficiency.
 - **Long-term:** Test price adjustments and monitor their impact on consumer behavior and overall profitability.
 
----
-
-## Summary
-
-The sensitivity analysis provides critical insights into how different variables impact Bubble Bliss's profitability. By strategically adjusting these key factors, Bubble Bliss can effectively transition from a loss-making position to achieving break-even and setting the foundation for sustainable growth.
-
-The recommended strategies will help ensure the company is not only meeting its financial targets but also building a robust operational model that can adapt to market changes and support long-term profitability.
-
----
-
