@@ -1,4 +1,4 @@
-# Financial-Sensitivity-Analysis-Optimizing-Revenue-Costs-and-Pricing-for-Break-even-Success
+# Financial Sensitivity Analysis: Achieving Break-even Using Excel What-If Analysis (Goal Seek)
 
 ## Background
 
